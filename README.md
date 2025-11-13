@@ -23,7 +23,7 @@ I enjoy exploring data, visualizing insights, and creating user-friendly web app
 ### 👜 [Royal Handbag – PHP Based E-commerce Website](https://github.com/darpana-chauhan/royal-handbag)  
 A complete **PHP & MySQL** based E-commerce project with features like categories, products, cart, wishlist, orders, and admin panel.  
 
-🎥 **Live Demo:** [View Project on Netlify](https://royalhandbag.rf.gd/) 
+🎥 **Live Demo:** [View Project on InfinityFree](https://royalhandbag.rf.gd/)
 
 ---
 
