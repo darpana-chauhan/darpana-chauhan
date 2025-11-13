@@ -40,6 +40,8 @@ A full-featured **Python Django** E-commerce web application with user registrat
 
 ### 🧠 [Data Science Fundamentals with Python – IBM Cognitive Class](https://github.com/darpana-chauhan/certificates/blob/main/IBM_CognitiveClass_Data_Science_Fundamentals_Certificate.pdf)
 
+🔗 **View all my certificates:** [Certificates Repository](https://github.com/darpana-chauhan/certificates)
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -54,7 +56,8 @@ A full-featured **Python Django** E-commerce web application with user registrat
 
 ## 📊 GitHub Stats  
 
-![Darpana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical)  
+![Darpana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&v=4
+)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&langs_count=6&exclude_repo=royal-handbag,old-html-css-project,static-site)
 
 ---
