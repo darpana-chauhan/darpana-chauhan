@@ -43,17 +43,18 @@ A full-featured **Python Django** E-commerce web application with user registrat
 
 ## 🛠️ Tech Stack  
 
-**Languages:** Python, PHP, HTML, CSS, SQL  
-**Frameworks:** Django, Bootstrap  
-**Databases:** MySQL, SQLite  
-**Tools:** VS Code, Git, GitHub, XAMPP  
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![PHP](https://img.shields.io/badge/PHP-Developer-787CB5?logo=php)
+![HTML](https://img.shields.io/badge/HTML-Beginner-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Beginner-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?logo=javascript) 
 
 ---
 
 ## 📊 GitHub Stats  
 
 ![Darpana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&exclude_repo=royal-handbag)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&langs_count=6&exclude_repo=old-html-css-project,small-js-test)
 
 ---
 
