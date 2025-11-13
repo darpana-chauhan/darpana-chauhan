@@ -14,7 +14,7 @@ I enjoy exploring data, visualizing insights, and creating user-friendly web app
 - 💻 Skilled in **Python, PHP, HTML, CSS, Bootstrap, MySQL, SQLite**  
 - 🎓 Pursuing **BCA (3rd Year)** from BKNMU  
 - 🧩 Interested in **Machine Learning, Web Development**, and **Data Analytics**  
-- 🌍 Based in **Bagasara, Amreli (Gujarat, India)**  
+- 🌍 Based in **Amreli (Gujarat, India)**  
 
 ---
 
