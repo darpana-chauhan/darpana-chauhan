@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Darpana Chauhan  
 
-<!--
-**darpana-chauhan/darpana-chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Scientist | Python & Django Learner | Web Development Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m passionate about learning **Python, Django, and Data Science**, and I love building projects that solve real-world problems.  
+I enjoy exploring data, visualizing insights, and creating user-friendly web applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+
+- 🌱 Currently learning **Data Science** & **Django Web Development**  
+- 💻 Skilled in **Python, PHP, HTML, CSS, Bootstrap, MySQL, SQLite**  
+- 🎓 Pursuing **BCA (3rd Year)** from BKNMU  
+- 🧩 Interested in **Machine Learning, Web Development**, and **Data Analytics**  
+- 🌍 Based in **Bagasara, Amreli (Gujarat, India)**  
+
+---
+
+## 💼 My Projects  
+
+### 👜 [Royal Handbag – PHP Based E-commerce Website](https://github.com/darpana-chauhan/royal-handbag)  
+A complete **PHP & MySQL** based E-commerce project with features like categories, products, cart, wishlist, orders, and admin panel.  
+
+🎥 **Live Demo:** [View Project on Netlify](https://royalhandbag.rf.gd/) *(replace with your actual project live link)*  
+
+---
+
+### 🛍️ [Eflyer – Python Django E-commerce Website](https://github.com/darpana-chauhan/eflyer-ecommerce-python-project)  
+A full-featured **Python Django** E-commerce web application with user registration, product categories (Clothes, Jewellry, Electronics), cart, and checkout system.  
+
+🎬 **Video Demo:** [Watch Project Demo](https://streamable.com/qn3a4c)  
+
+---
+
+## 🏅 Certificates  
+
+### 🎓 [Data Analysis with Python – freeCodeCamp](https://github.com/darpana-chauhan/certificates/blob/main/freecodecamp.pdf)  
+### 🧠 [Data Science Fundamentals with Python – IBM Cognitive Class](https://github.com/darpana-chauhan/certificates/blob/main/IBM%20PY0101EN%20Certificate%20_%20Cognitive%20Class.pdf)
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:** Python, PHP, HTML, CSS, SQL  
+**Frameworks:** Django, Bootstrap  
+**Databases:** MySQL, SQLite  
+**Tools:** VS Code, Git, GitHub, XAMPP  
+
+---
+
+## 📊 GitHub Stats  
+
+![Darpana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me  
+
+- 💼 **LinkedIn:** [Darpana Chauhan](https://www.linkedin.com/in/darpana-chauhan-008541324/)  
+- 🐙 **GitHub:** [@darpana-chauhan](https://github.com/darpana-chauhan)  
+
+
+---
+
+⭐ *Thanks for visiting my profile!*  
+💬 *Feel free to explore my repositories and connect for collaboration or learning opportunities.*
