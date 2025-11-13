@@ -53,7 +53,7 @@ A full-featured **Python Django** E-commerce web application with user registrat
 ## 📊 GitHub Stats  
 
 ![Darpana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&exclude_repo=royal-handbag)
 
 ---
 
