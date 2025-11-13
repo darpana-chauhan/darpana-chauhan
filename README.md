@@ -27,7 +27,7 @@ A complete **PHP & MySQL** based E-commerce project with features like categorie
 
 ---
 
-### 🛍️ [Eflyer – Python Django E-commerce Website](https://github.com/darpana-chauhan/eflyer-ecommerce-python-project)  
+### 🛍️ [Eflyer – Python Django E-commerce Website](https://github.com/darpana-chauhan/eflyer-python-ecommerce)  
 A full-featured **Python Django** E-commerce web application with user registration, product categories (Clothes, Jewellry, Electronics), cart, and checkout system.  
 
 🎬 **Video Demo:** [Watch Project Demo](https://streamable.com/qn3a4c)  
@@ -54,7 +54,7 @@ A full-featured **Python Django** E-commerce web application with user registrat
 ## 📊 GitHub Stats  
 
 ![Darpana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&langs_count=6&exclude_repo=old-html-css-project,small-js-test)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&langs_count=6&exclude_repo=royal-handbag,old-html-css-project,static-site)
 
 ---
 
