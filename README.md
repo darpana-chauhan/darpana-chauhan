@@ -36,7 +36,7 @@ A full-featured **Python Django** E-commerce web application with user registrat
 
 ## 🏅 Certificates  
 
-### 🎓 [Data Analysis with Python – freeCodeCamp](https://github.com/darpana-chauhan/certificates/blob/main/freeCodeCamp_Data_Analysis_with_Python_Certificate.pdf) 
+### 🎓 [Data Analysis with Python – freeCodeCamp](https://github.com/darpana-chauhan/certificates/blob/main/freecodecamp-data%20science-certificate.jpg) 
 
 ### 🧠 [Data Science Fundamentals with Python – IBM Cognitive Class](https://github.com/darpana-chauhan/certificates/blob/main/IBM%20%20Certificate%20_%20Cognitive.jpg)
 
