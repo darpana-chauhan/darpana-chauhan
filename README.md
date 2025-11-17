@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image Nov 17, 2025, 10_26_46 PM" src="https://github.com/user-attachments/assets/327eb6fa-5670-489d-b651-37c2f18d5978" />
+  <img width="500" height="500" alt="ChatGPT Image Nov 17, 2025, 10_26_46 PM" src="https://github.com/user-attachments/assets/327eb6fa-5670-489d-b651-37c2f18d5978" />
 
 </p>
 
