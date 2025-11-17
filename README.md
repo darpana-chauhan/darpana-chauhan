@@ -24,10 +24,10 @@ I love turning **raw data into meaningful insights**, building **machine learnin
 
 ## 💼 My Best Projects  
 
-### 🔥 **Machine Learning**
+### 🔥 **Data Science Projects**
 | Project | Description | Technology |
 |--------|-------------|------------|
-| 🛳️ **Titanic Survival Prediction** | ML model predicting passenger survival with EDA, FE, model comparison & Streamlit app | Python, Pandas, Sklearn, Matplotlib |
+| 🛳️ **Titanic Survival Prediction** | A complete data science project with EDA, feature engineering, visualizations, model building & accuracy evaluation | Python, Pandas, Sklearn, Matplotlib |
 
 🔗 **Repo:** https://github.com/darpana-chauhan/titanic_survival_prediction  
 
