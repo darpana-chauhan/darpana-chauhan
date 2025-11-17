@@ -1,86 +1,94 @@
-# 👋 Hi, I'm Darpana Chauhan  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/rvdK4oK.gif" width="700">
+</p>
 
-🎯 **Aspiring Data Scientist | Python & Django Learner | Web Development Enthusiast**
+# 👋 Hi, I'm **Darpana Chauhan**  
+### 🚀 Aspiring Data Scientist | Python & Django Developer | ML Enthusiast
 
-Welcome to my GitHub profile!  
-I’m passionate about learning **Python, Django, and Data Science**, and I love building projects that solve real-world problems.  
-I enjoy exploring data, visualizing insights, and creating user-friendly web applications.  
+Welcome to my GitHub!  
+I love turning **raw data into meaningful insights**, building **machine learning models**, and creating **modern web applications** using Django and PHP.
 
 ---
 
-## 🚀 About Me  
+## 🌟 About Me
 
-- 🌱 Currently learning **Data Science** & **Django Web Development**  
-- 💻 Skilled in **Python, PHP, HTML, CSS, Bootstrap, MySQL, SQLite**  
+- 🔍 Passionate about **Data Science & Machine Learning**  
+- 🌱 Currently learning: **Pandas, Seaborn, ML Models, Django**  
+- 💻 Comfortable with **Python, PHP, HTML, CSS, MySQL, SQLite**  
 - 🎓 Pursuing **BCA (3rd Year)** from BKNMU  
-- 🧩 Interested in **Machine Learning, Web Development**, and **Data Analytics**  
-- 🌍 Based in **Amreli (Gujarat, India)**  
+- 🌍 Based in **Gujarat, India**  
+- 🌈 Love building projects that **solve real-world problems**
 
 ---
 
-## 💼 My Projects  
+## 💼 My Best Projects  
 
-### 👜 [Royal Handbag – PHP Based E-commerce Website](https://github.com/darpana-chauhan/royal-handbag)  
-A complete **PHP & MySQL** based E-commerce project with features like categories, products, cart, wishlist, orders, and admin panel.  
+### 🔥 **Machine Learning**
+| Project | Description | Technology |
+|--------|-------------|------------|
+| 🛳️ **Titanic Survival Prediction** | ML model predicting passenger survival with EDA, FE, model comparison & Streamlit app | Python, Pandas, Sklearn, Matplotlib |
 
-🎥 **Live Demo:** [View Project on InfinityFree](https://royalhandbag.rf.gd/)
-
----
-
-### 🛍️ [Eflyer – Python Django E-commerce Website](https://github.com/darpana-chauhan/eflyer-python-ecommerce)  
-A full-featured **Python Django** E-commerce web application with user registration, product categories (Clothes, Jewellry, Electronics), cart, and checkout system.  
-
-🎬 **Video Demo:** [Watch Project Demo](https://streamable.com/80pv13)  
+🔗 **Repo:** https://github.com/darpana-chauhan/titanic_survival_prediction  
 
 ---
 
-### 🛳️ [Titanic Survival Prediction – Machine Learning Project](https://github.com/darpana-chauhan/titanic_survival_prediction)  
-A complete **Machine Learning project** that predicts Titanic survival using the Kaggle dataset.  
-Includes **data cleaning, EDA, feature engineering, model training, model evaluation**, and a **Streamlit web app**.
-
-📊 **Visualizations Included:**  
-- Confusion Matrix  
-- Feature Importance  
-- Model Comparison  
-
-📂 **Repository:**  
-👉 https://github.com/darpana-chauhan/titanic_survival_prediction  
+### 🛒 **E-commerce Websites**
+| Project | Tech | Links |
+|--------|------|-------|
+| 👜 **Royal Handbag – PHP E-commerce** | PHP, MySQL, Admin Panel, Cart, Wishlist | [GitHub](https://github.com/darpana-chauhan/royal-handbag) • [Live Demo](https://royalhandbag.rf.gd/) |
+| 🛍️ **Eflyer – Django E-commerce** | Python, Django, SQLite, Cart, Checkout | [GitHub](https://github.com/darpana-chauhan/eflyer-python-ecommerce) • [Demo Video](https://streamable.com/80pv13) |
 
 ---
 
 ## 🏅 Certificates  
+- 🎓 **Data Analysis with Python — freeCodeCamp**  
+  🔗 https://github.com/darpana-chauhan/certificates/blob/main/freecodecamp-data%20science-certificate.jpg  
+- 🧠 **IBM – Data Science Fundamentals**  
+  🔗 https://github.com/darpana-chauhan/certificates/blob/main/IBM%20%20Certificate%20_%20Cognitive.jpg  
 
-### 🎓 [Data Analysis with Python – freeCodeCamp](https://github.com/darpana-chauhan/certificates/blob/main/freecodecamp-data%20science-certificate.jpg) 
-
-### 🧠 [Data Science Fundamentals with Python – IBM Cognitive Class](https://github.com/darpana-chauhan/certificates/blob/main/IBM%20%20Certificate%20_%20Cognitive.jpg)
-
-🔗 **View all my certificates:** [Certificates Repository](https://github.com/darpana-chauhan/certificates)
+📁 **All Certificates:** https://github.com/darpana-chauhan/certificates
 
 ---
 
 ## 🛠️ Tech Stack  
+<p align="center">
+  
+<!-- Language Badges -->
+<img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![PHP](https://img.shields.io/badge/PHP-Developer-787CB5?logo=php)
-![HTML](https://img.shields.io/badge/HTML-Beginner-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Beginner-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?logo=javascript) 
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
+<p align="center">
 
-![Darpana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&v=4
-)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&langs_count=6&exclude_repo=royal-handbag,old-html-css-project,static-site)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
-
-- 💼 **LinkedIn:** [Darpana Chauhan](https://www.linkedin.com/in/darpana-chauhan-008541324/)  
-- 🐙 **GitHub:** [@darpana-chauhan](https://github.com/darpana-chauhan)  
-
+<p align="center">
+<a href="https://www.linkedin.com/in/darpana-chauhan-008541324/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="https://github.com/darpana-chauhan">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
