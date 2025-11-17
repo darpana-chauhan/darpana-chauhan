@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/rvdK4oK.gif" width="700">
+  <img src="" width="700" src="https://github.com/user-attachments/assets/a653a3ba-8442-43b7-9dfc-42be8d1ff512">
 </p>
+
 
 # 👋 Hi, I'm **Darpana Chauhan**  
 ### 🚀 Aspiring Data Scientist | Python & Django Developer | ML Enthusiast
