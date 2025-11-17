@@ -34,6 +34,20 @@ A full-featured **Python Django** E-commerce web application with user registrat
 
 ---
 
+### 🛳️ [Titanic Survival Prediction – Machine Learning Project](https://github.com/darpana-chauhan/titanic_survival_prediction)  
+A complete **Machine Learning project** that predicts Titanic survival using the Kaggle dataset.  
+Includes **data cleaning, EDA, feature engineering, model training, model evaluation**, and a **Streamlit web app**.
+
+📊 **Visualizations Included:**  
+- Confusion Matrix  
+- Feature Importance  
+- Model Comparison  
+
+📂 **Repository:**  
+👉 https://github.com/darpana-chauhan/titanic_survival_prediction  
+
+---
+
 ## 🏅 Certificates  
 
 ### 🎓 [Data Analysis with Python – freeCodeCamp](https://github.com/darpana-chauhan/certificates/blob/main/freecodecamp-data%20science-certificate.jpg) 
