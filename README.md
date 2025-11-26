@@ -75,8 +75,6 @@ I love turning **raw data into meaningful insights**, building **machine learnin
 ## 📊 GitHub Stats  
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
