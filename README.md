@@ -43,6 +43,33 @@ I love turning **raw data into meaningful insights**, building **machine learnin
 
 ---
 
+## 📊 Power BI Projects
+
+### 🔥 **Interactive Sales Dashboard (Power BI)**  
+An interactive and visually rich **Sales Dashboard** built using **Power BI**.  
+It includes insights like **Sales, Cost, Profit, Category-wise quantity, Brand-wise contribution, and State-wise performance** for 2020–2022.
+
+📸 **Dashboard Preview**  
+![Dashboard Preview](https://raw.githubusercontent.com/darpana-chauhan/interactive-sales-dashboard-powerbi/main/dashboard%20power%20bi%20image.png)
+
+🎥 **Video Demo:**  
+👉 *Streamable Link:* https://streamable.com/ (add your video link here)
+
+🔗 **Repository Link:**  
+https://github.com/darpana-chauhan/interactive-sales-dashboard-powerbi
+
+**Features:**  
+- Category-wise Sales Quantity  
+- Supervisor Slicer (Image-based Filter)  
+- State-wise Sales Map  
+- Brand-wise Contribution Pie Chart  
+- Dynamic KPI Cards (Sales, Cost, Profit, Quantity, Transactions)
+
+**Tech Used:**  
+`Power BI` · `Power Query` · `DAX` · `Excel Dataset`
+
+---
+
 ## 🏅 Certificates  
 - 🎓 **Data Analysis with Python — freeCodeCamp**  
   🔗 https://github.com/darpana-chauhan/certificates/blob/main/freecodecamp-data%20science-certificate.jpg  
