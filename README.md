@@ -1,89 +1,85 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img width="500" height="500" alt="ChatGPT Image Nov 17, 2025, 10_26_46 PM" src="https://github.com/user-attachments/assets/327eb6fa-5670-489d-b651-37c2f18d5978" />
-
+  <img width="500" height="500" src="https://github.com/user-attachments/assets/327eb6fa-5670-489d-b651-37c2f18d5978" alt="Profile Banner"/>
 </p>
 
+<h1 align="center">👋 Hi, I'm <strong>Darpana Chauhan</strong></h1>
+<h3 align="center">🚀 Aspiring Data Scientist | Python & Django Developer | ML Enthusiast</h3>
 
-# 👋 Hi, I'm **Darpana Chauhan**  
-### 🚀 Aspiring Data Scientist | Python & Django Developer | ML Enthusiast
-
-Welcome to my GitHub!  
-I love turning **raw data into meaningful insights**, building **machine learning models**, and creating **modern web applications** using Django and PHP.
+<p align="center">
+I love turning <strong>raw data into meaningful insights</strong>, building <strong>machine learning models</strong>, 
+and developing <strong>modern web applications</strong>.
+</p>
 
 ---
 
 ## 🌟 About Me
-
 - 🔍 Passionate about **Data Science & Machine Learning**  
 - 🌱 Currently learning: **Pandas, Seaborn, ML Models, Django**  
-- 💻 Comfortable with **Python, PHP, HTML, CSS, MySQL, SQLite**  
-- 🎓 Pursuing **BCA (3rd Year)** from BKNMU  
+- 💻 Skills: **Python, PHP, Django, HTML, CSS, MySQL, SQLite**  
+- 🎓 **BCA (3rd Year)** — BKNMU  
 - 🌍 Based in **Gujarat, India**  
-- 🌈 Love building projects that **solve real-world problems**
+- 🌈 Building projects that bring **real-world value**  
 
 ---
 
 ## 💼 My Best Projects  
 
 ### 🔥 **Data Science Projects**
-| Project | Description | Technology |
-|--------|-------------|------------|
-| 🛳️ **Titanic Survival Prediction** | A complete data science project with EDA, feature engineering, visualizations, model building & accuracy evaluation | Python, Pandas, Sklearn, Matplotlib |
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🛳️ Titanic Survival Prediction | Complete ML workflow: EDA, cleaning, model building & accuracy | Python, Pandas, Sklearn |
 
-🔗 **Repo:** https://github.com/darpana-chauhan/titanic_survival_prediction  
+🔗 Repo: https://github.com/darpana-chauhan/titanic_survival_prediction  
 
 ---
 
 ### 🛒 **E-commerce Websites**
-| Project | Tech | Links |
-|--------|------|-------|
-| 👜 **Royal Handbag – PHP E-commerce** | PHP, MySQL, Admin Panel, Cart, Wishlist | [GitHub](https://github.com/darpana-chauhan/royal-handbag) • [Live Demo](https://royalhandbag.rf.gd/) |
-| 🛍️ **Eflyer – Django E-commerce** | Python, Django, SQLite, Cart, Checkout | [GitHub](https://github.com/darpana-chauhan/eflyer-python-ecommerce) • [Demo Video](https://streamable.com/80pv13) |
+| Project | Tech Stack | Links |
+|--------|-------------|-------|
+| 👜 Royal Handbag – PHP E-commerce | PHP, MySQL, Admin Panel, Cart, Wishlist | [GitHub](https://github.com/darpana-chauhan/royal-handbag) • [Live Demo](https://royalhandbag.rf.gd/) |
+| 🛍️ Eflyer – Django E-commerce | Django, SQLite, Cart, Checkout | [GitHub](https://github.com/darpana-chauhan/eflyer-python-ecommerce) • [Video](https://streamable.com/80pv13) |
 
 ---
 
 ## 📊 Power BI Projects
 
-### 🔥 **Interactive Sales Dashboard (Power BI)**  
-An interactive and visually rich **Sales Dashboard** built using **Power BI**.  
-It includes insights like **Sales, Cost, Profit, Category-wise quantity, Brand-wise contribution, and State-wise performance** for 2020–2022.
+### 🚀 **Space Missions Dashboard (2000–2025)**
+A data-driven dashboard showing **global space missions** from 2000–2025.
 
-📸 **Dashboard Preview**  
-![Dashboard Preview](https://raw.githubusercontent.com/darpana-chauhan/interactive-sales-dashboard-powerbi/main/dashboard%20power%20bi%20image.png)
+📸 **Preview:**  
+![Dashboard](https://github.com/darpana-chauhan/space-missions-dashboard-2000-2025/blob/main/space_missions_2000_2025.png)
 
 🎥 **Video Demo:**  
-👉 *Streamable Link:* https://streamable.com/ (add your video link here)
+https://streamable.com/4lx7je
 
-🔗 **Repository Link:**  
-https://github.com/darpana-chauhan/interactive-sales-dashboard-powerbi
+🔗 **Repository:**  
+https://github.com/darpana-chauhan/space-missions-dashboard-2000-2025
 
-**Features:**  
-- Category-wise Sales Quantity  
-- Supervisor Slicer (Image-based Filter)  
-- State-wise Sales Map  
-- Brand-wise Contribution Pie Chart  
-- Dynamic KPI Cards (Sales, Cost, Profit, Quantity, Transactions)
+---
 
-**Tech Used:**  
-`Power BI` · `Power Query` · `DAX` · `Excel Dataset`
+### 📈 **Interactive Sales Dashboard (Power BI)**
+📸 Preview  
+![Sales Dashboard](https://raw.githubusercontent.com/darpana-chauhan/interactive-sales-dashboard-powerbi/main/dashboard%20power%20bi%20image.png)
+
+🎥 Video Demo: *(Add link)*  
+🔗 Repo: https://github.com/darpana-chauhan/interactive-sales-dashboard-powerbi  
 
 ---
 
 ## 🏅 Certificates  
-- 🎓 **Data Analysis with Python — freeCodeCamp**  
-  🔗 https://github.com/darpana-chauhan/certificates/blob/main/freecodecamp-data%20science-certificate.jpg  
-- 🧠 **IBM – Data Science Fundamentals**  
-  🔗 https://github.com/darpana-chauhan/certificates/blob/main/IBM%20%20Certificate%20_%20Cognitive.jpg  
+- 🎓 Data Analysis with Python — freeCodeCamp  
+- 🧠 IBM Data Science Fundamentals  
 
-📁 **All Certificates:** https://github.com/darpana-chauhan/certificates
+📁 All certificates:  
+https://github.com/darpana-chauhan/certificates
 
 ---
 
 ## 🛠️ Tech Stack  
+
 <p align="center">
-  
-<!-- Language Badges -->
+
 <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
@@ -102,13 +98,11 @@ https://github.com/darpana-chauhan/interactive-sales-dashboard-powerbi
 ## 📊 GitHub Stats  
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
-
-
 
 ---
 
@@ -125,4 +119,4 @@ https://github.com/darpana-chauhan/interactive-sales-dashboard-powerbi
 ---
 
 ⭐ *Thanks for visiting my profile!*  
-💬 *Feel free to explore my repositories and connect for collaboration or learning opportunities.*
+💬 *Feel free to connect or collaborate!*
