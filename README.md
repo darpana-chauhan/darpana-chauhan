@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Darpana Chauhan</strong></h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Python & Django Developer | ML Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Data Visualization | ML Enthusiast</h3>
 
 <p align="center">
 I love turning <strong>raw data into meaningful insights</strong>, building <strong>machine learning models</strong>, 
