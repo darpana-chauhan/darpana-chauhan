@@ -32,8 +32,7 @@ and developing <strong>modern web applications</strong>.
 
 🔗 Repo: https://github.com/darpana-chauhan/titanic_survival_prediction  
 
-🎥 **Demo Video:**  
-https://streamable.com/hgnnui
+🎥 **Demo Video:**  https://streamable.com/hgnnui
 
 ---
 
