@@ -64,9 +64,11 @@ https://github.com/darpana-chauhan/space-missions-dashboard-2000-2025
 📸 Preview  
 ![Sales Dashboard](https://raw.githubusercontent.com/darpana-chauhan/interactive-sales-dashboard-powerbi/main/dashboard%20power%20bi%20image.png)
 
-🎥 Video Demo:  https://streamable.com/9i03ex
+🎥 **Video Demo:** 
+https://streamable.com/9i03ex
 
-🔗 Repo: https://github.com/darpana-chauhan/interactive-sales-dashboard-powerbi  
+🔗 **Repository:**  
+https://github.com/darpana-chauhan/interactive-sales-dashboard-powerbi  
 
 ---
 
@@ -76,7 +78,7 @@ An interactive and visually rich **Sales Analytics Dashboard** designed to analy
 📸 **Preview:**  
 ![Sales Analytics](https://github.com/darpana-chauhan/sales-analytics-dashboard/blob/main/Sales%20Analytics%20Dashboard.png)
 
-🔗 **Live Demo Video:**  
+🎥 **Video Demo:**  
 https://streamable.com/1f5c0m
 
 🔗 **Repository:**  
