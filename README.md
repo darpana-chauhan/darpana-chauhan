@@ -31,7 +31,6 @@ and developing <strong>modern web applications</strong>.
 | 🛳️ Titanic Survival Prediction | Complete ML workflow: EDA, cleaning, model building & accuracy | Python, Pandas, Sklearn |
 
 🔗 Repo: https://github.com/darpana-chauhan/titanic_survival_prediction  
-
 🎥 **Demo Video:**  https://streamable.com/hgnnui
 
 ---
@@ -120,5 +119,62 @@ https://github.com/darpana-chauhan/certificates
 
 ---
 
-⭐ *Thanks for visiting my profile!*  
-💬 *Feel free to connect or collaborate!*
+# 🆕 📊 **Sales Analytics Dashboard – Power BI Project (NEW Section)**
+
+This section is newly added below my previous profile details.
+
+---
+
+## 🚀 Project Overview  
+This repository contains an interactive **Sales Analytics Dashboard** built using **Power BI**, designed to transform raw sales data into meaningful and visually compelling insights.
+
+The dashboard helps analyze:
+- Total Sales & Revenue  
+- Profit & Order Trends  
+- Category & Sub-category Performance  
+- Regional Sales Distribution  
+- Top-performing Products  
+- Customer Behaviour Analysis  
+
+---
+
+## 🗂️ Repository Contents
+
+| File Name | Description |
+|----------|-------------|
+| **heatmap.pbix** | Main Power BI dashboard file |
+| **Sales Analytics Dashboard.png** | High-quality dashboard preview image |
+| **powerbi_datascience_dashboard.csv** | Dataset used for this dashboard |
+| **README.md** | Project documentation |
+
+---
+
+## 📈 Key Visualizations
+- KPI Cards (Revenue, Sales, Profit)  
+- Clustered Bar & Column Charts  
+- Line Chart for Trend Analysis  
+- Heatmap for Performance Comparison  
+- Geo Map for Regional Sales  
+- Category & Sub-category Breakdown  
+- Slicers for Interactive Filtering  
+
+---
+
+## 🔍 Major Insights
+- Identified top-performing product categories  
+- Observed revenue growth/decline monthly  
+- Found regions contributing highest sales  
+- Analyzed customer buying patterns  
+- Detected profit gaps using heatmaps  
+
+---
+
+## 📄 How to Use
+1. Download the `.pbix` file  
+2. Open it using **Power BI Desktop**  
+3. Explore filters, visuals, & dashboards  
+
+---
+
+⭐ **If you found this project helpful, please ⭐ star this repository!**
+
