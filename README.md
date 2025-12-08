@@ -73,13 +73,13 @@ https://github.com/darpana-chauhan/space-missions-dashboard-2000-2025
 An interactive and visually rich **Sales Analytics Dashboard** designed to analyze business performance using dynamic visuals and KPIs.
 
 📸 **Preview:**  
-![Sales Analytics](https://github.com/darpana-chauhan/sales-analytics-powerbi/blob/main/Sales%20Analytics%20Dashboard.png)
+![Sales Analytics](https://github.com/darpana-chauhan/sales-analytics-dashboard/blob/main/Sales%20Analytics%20Dashboard.png)
 
 🔗 **Live Demo Video:**  
 https://streamable.com/1f5c0m
 
 🔗 **Repository:**  
-https://github.com/darpana-chauhan/sales-analytics-powerbi
+https://github.com/darpana-chauhan/sales-analytics-dashboard
 
 #### 🗂️ Files Included
 | File Name | Description |
