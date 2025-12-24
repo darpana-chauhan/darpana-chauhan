@@ -29,8 +29,10 @@ and developing <strong>modern web applications</strong>.
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🛳️ Titanic Survival Prediction | Complete ML workflow: EDA, cleaning, model building & accuracy | Python, Pandas, Sklearn |
+| 📊 Indian Startup Funding Analysis | End-to-end EDA, ML model & Flask web app to predict high-value startup funding | Python, Pandas, ML, Flask |
 
-🔗 Repo: https://github.com/darpana-chauhan/titanic_survival_prediction  
+🔗 Repo: https://github.com/darpana-chauhan/titanic_survival_prediction
+🔗 Repo: https://github.com/darpana-chauhan/Indian-Startup-Funding-Analysis
 
 🎥 **Demo Video:**  https://streamable.com/hgnnui
 
