@@ -28,10 +28,10 @@ and developing <strong>modern web applications</strong>.
 ### 🔥 **Data Science Projects**
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| 🛳️ Titanic Survival Prediction | Complete ML workflow: EDA, data cleaning, model building & accuracy evaluation | Python, Pandas, Scikit-learn | [GitHub](https://github.com/darpana-chauhan/titanic_survival_prediction) |
+| 🛳️ Titanic Survival Prediction | Complete ML workflow: EDA, data cleaning, model building & accuracy evaluation | Python, Pandas, Scikit-learn | [GitHub](https://github.com/darpana-chauhan/titanic_survival_prediction) • [Video](https://streamable.com/hgnnui) |
 | 📊 Indian Startup Funding Analysis | End-to-end EDA, ML model & Flask web app to predict high-value startup funding | Python, Pandas, ML, Flask | [GitHub](https://github.com/darpana-chauhan/Indian-Startup-Funding-Analysis) |
 | 📱 Smartphone Usage Analysis | Exploratory data analysis on daily smartphone screen time trends using visualizations | Python, Pandas, NumPy, Matplotlib | [GitHub](https://github.com/darpana-chauhan/smartphone-usage-analysis) |
-| 🛡️ Smart Image Safety Analyzer | AI-based system to detect helmet safety in images and provide actionable safety advice using vision-language models | Python, Streamlit, BLIP, Hugging Face | [GitHub](https://github.com/darpana-chauhan/smart-image-safety-analyzer) • [Video](https://streamable.com/hgnnui) |
+| 🛡️ Smart Image Safety Analyzer | AI-based system to detect helmet safety in images and provide actionable safety advice using vision-language models | Python, Streamlit, BLIP, Hugging Face | [GitHub](https://github.com/darpana-chauhan/smart-image-safety-analyzer) |
 
 ---
 
