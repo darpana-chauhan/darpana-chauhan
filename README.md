@@ -27,7 +27,7 @@ and developing <strong>modern web applications</strong>.
 
 ### 🔥 **Data Science Projects**
 | Project | Description | Tech | Links |
-|--------|-------------|------|-------|
+|--------|----------|------|---------|
 | 🛳️ Titanic Survival Prediction | Complete ML workflow: EDA, cleaning, model building & accuracy | Python, Pandas, Sklearn |
 | 📊 Indian Startup Funding Analysis | End-to-end EDA, ML model & Flask web app to predict high-value startup funding | Python, Pandas, ML, Flask |
 | 📱 Smartphone Usage Analysis | Exploratory data analysis on daily smartphone screen time trends using visualizations | Python, Pandas, NumPy, Matplotlib |
