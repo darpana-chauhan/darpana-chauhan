@@ -31,12 +31,15 @@ and developing <strong>modern web applications</strong>.
 | 🛳️ Titanic Survival Prediction | Complete ML workflow: EDA, cleaning, model building & accuracy | Python, Pandas, Sklearn |
 | 📊 Indian Startup Funding Analysis | End-to-end EDA, ML model & Flask web app to predict high-value startup funding | Python, Pandas, ML, Flask |
 | 📱 Smartphone Usage Analysis | Exploratory data analysis on daily smartphone screen time trends using visualizations | Python, Pandas, NumPy, Matplotlib |
+| 🛡️ Smart Image Safety Analyzer | AI-based system to detect helmet safety in images and provide actionable safety advice using vision-language models | Python, Streamlit, BLIP, Hugging Face |
 
 🔗 Repo: https://github.com/darpana-chauhan/titanic_survival_prediction
 
 🔗 Repo: https://github.com/darpana-chauhan/Indian-Startup-Funding-Analysis
 
 🔗 Repo: https://github.com/darpana-chauhan/smartphone-usage-analysis
+
+🔗 Repo: https://github.com/darpana-chauhan/smart-image-safety-analyzer
 
 🎥 **Demo Video:**  https://streamable.com/hgnnui
 
