@@ -140,7 +140,8 @@ https://github.com/darpana-chauhan/certificates
 ## 📊 GitHub Stats  
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical&hide_border=true"/> -->
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=darpana-chauhan&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&hide_border=true"/>
 
