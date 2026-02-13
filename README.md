@@ -46,6 +46,28 @@ and developing <strong>modern web applications</strong>.
 
 ## 📊 Power BI Projects
 
+### 📉 Telecom Customer Churn Analysis Dashboard
+
+An interactive Power BI dashboard analyzing telecom customer behavior and identifying churn patterns using KPIs and segmentation.
+
+📸 **Preview:**  
+![Customer Churn Dashboard](https://github.com/darpana-chauhan/customer-churn-analysis/blob/main/7-dashboard.png)
+
+🎥 **Video Demo:**  
+https://github.com/user-attachments/assets/215dbfa5-d6e2-4bd4-9ae5-1319e0bb922c
+
+🔗 **Repository:**  
+https://github.com/darpana-chauhan/customer-churn-analysis
+
+#### 📈 Key Highlights
+- Customer churn distribution analysis  
+- Contract type comparison  
+- Monthly & total charges impact  
+- Customer segmentation  
+- KPI performance indicators  
+
+---
+
 ### 🚀 **Space Missions Dashboard (2000–2025)**
 A data-driven dashboard showing **global space missions** from 2000–2025.
 
