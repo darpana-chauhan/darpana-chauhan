@@ -168,6 +168,8 @@ https://github.com/darpana-chauhan/certificates
 
 <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=darpana-chauhan&layout=compact&theme=radical&hide_border=true"/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
 </p>
 
 ---
