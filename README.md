@@ -170,11 +170,6 @@ https://github.com/darpana-chauhan/certificates
 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darpana-chauhan" />
-</p>
-
-
 ---
 
 ## 🌐 Connect with Me  
